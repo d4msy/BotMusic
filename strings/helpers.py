@@ -159,7 +159,7 @@ FUNGSI GBAN:
 /videomode [download|m3u8] - Jika mode unduh diaktifkan, Bot akan mengunduh video alih-alih memutarnya dalam bentuk M3u8.  Secara default ke M3u8.  Anda dapat menggunakan mode unduhan saat kueri apa pun tidak diputar dalam mode m3u8.
 
 FUNGSI BOT SWASTA:
-/otorisasi [CHAT_ID] - Izinkan obrolan untuk menggunakan bot Anda.
+/authorize [CHAT_ID] - Izinkan obrolan untuk menggunakan bot Anda.
 /unauthorize [CHAT_ID] - Melarang obrolan menggunakan bot Anda.
 /authorized - Periksa semua obrolan bot Anda yang diizinkan.
 
